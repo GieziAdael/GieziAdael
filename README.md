@@ -1,124 +1,28 @@
-[I believe in center aligned 🤲]: #
-
-<div align="center">
-  
-[this is for the picture]: #	
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-  
-[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
-<div id="badges">
-<a href="https://www.linkedin.com/in/giezi-adael-tv-0bba44377/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="[https://www.instagram.com/shaunak_chandra/](https://www.instagram.com/doge_mx/)">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-</a>
-<a href="mailto:giezi.tlaxcoapan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-</a>
-</div>
+# 💫 Sobre Mí:
+Soy un desarrollador en constante aprendizaje con un enfoque en Back-end utilizando .NET. Mi objetivo es crear soluciones sólidas, escalables y seguras que aporten valor real a las empresas y usuarios.<br><br>Actualmente estoy profundizando en:<br><br>ASP.NET Core MVC para el desarrollo de aplicaciones web.<br><br>APIs RESTful con .NET incluyendo autenticación y seguridad con JWT.<br><br>Buenas prácticas de arquitectura y patrones de diseño aplicados al desarrollo backend.<br><br><br>Tengo bases sólidas en C# (POO, colecciones, LINQ, asincronía, Entity Framework Core) y experiencia previa con otros lenguajes como Java, Python y C++, lo que me permite adaptarme rápidamente a diferentes entornos y tecnologías.<br>Mi meta es integrarme en un equipo de desarrollo profesional como Backend Developer .NET, contribuyendo a proyectos reales mientras sigo ampliando mis conocimientos y construyendo un portafolio sólido.<br>
 
 
-### Hola a todos! 👋🎉
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/GieziTlaxV/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/doge_mx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giezi-adael-tv-0bba44377/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@doge_mx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giezi.tlaxcoapan@gmail.com) 
 
-Mi nombre es Giezi Adael Tlaxcoapan Vargas, y bienvenido a mi perfil.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GieziAdael&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GieziAdael&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GieziAdael&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Actualmente soy un estudiante a nivel licenciatura, de la carrera Ingenieria en Software y Redes. Historicamente me ha llamado la atencion el desarrollo de software, desde 12 años, siempre enfocandome en aprender distintas técnologias. Mi fuerte actualmente, es el Back-end, y estoy en constante aprendizaje en abarcar todo lo relacionado a .Net 👨‍💻
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GieziAdael&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GieziAdael&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
-### :bar_chart: Herramientas, Lenguajes, y plataformas
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#242938"/>
-<mask id="mask0_217_156" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="28" y="28" width="200" height="200">
-<path d="M64.6656 197.166L31.3344 172.166C30.2952 171.394 29.4519 170.389 28.8727 169.23C28.2935 168.072 27.9946 166.795 28.0001 165.5V90.5001C27.9946 89.2054 28.2935 87.9276 28.8727 86.7698C29.4519 85.6119 30.2952 84.6065 31.3344 83.8345L64.6656 58.8345C63.7702 59.6752 63.0936 60.7218 62.6944 61.8835C62.2952 63.0451 62.1856 64.2866 62.375 65.5001V190.5C62.1856 191.714 62.2952 192.955 62.6944 194.117C63.0936 195.278 63.7702 196.325 64.6656 197.166Z" fill="white"/>
-<path d="M224.29 62.7093C222.917 61.8073 221.308 61.3291 219.665 61.3344C218.601 61.3258 217.544 61.5273 216.558 61.9274C215.571 62.3274 214.673 62.9181 213.915 63.6656L213.334 64.25L146.834 128L110.04 163.291L75.9999 195.915L75.4156 196.5C74.6583 197.248 73.7604 197.84 72.7736 198.241C71.7868 198.641 70.7305 198.843 69.6656 198.834C67.8628 198.83 66.1092 198.246 64.6656 197.165L31.3344 172.166C33.0279 173.437 35.1424 174.016 37.2476 173.784C39.3528 173.552 41.2902 172.526 42.6656 170.915L79.6656 127.959L110.04 92.7093L163.25 30.9156C164.022 30.0005 164.985 29.2654 166.072 28.7617C167.159 28.2581 168.343 27.9981 169.541 28C171.184 27.9947 172.792 28.4729 174.165 29.375L224.29 62.7093Z" fill="white"/>
-<path d="M224.29 193.29L174.291 226.624C172.589 227.735 170.545 228.195 168.532 227.92C166.52 227.644 164.674 226.651 163.334 225.125L110.04 163.291L79.6656 127.959L42.6656 85.0405C41.278 83.4462 39.3387 82.4358 37.2369 82.2121C35.1352 81.9883 33.0266 82.5679 31.3344 83.8344L64.6656 58.8344C66.1092 57.7545 67.8628 57.1692 69.6656 57.1656C70.7305 57.1566 71.7868 57.3582 72.7736 57.7588C73.7604 58.1595 74.6583 58.7512 75.4156 59.5L75.9999 60.0843L110.04 92.7094L146.834 128L213.334 191.75L213.915 192.334C214.673 193.082 215.571 193.672 216.558 194.072C217.544 194.472 218.601 194.674 219.665 194.665C221.308 194.671 222.917 194.193 224.29 193.29Z" fill="white"/>
-<path d="M228 69.6655V186.334C228.001 187.709 227.663 189.064 227.016 190.276C226.369 191.49 225.433 192.525 224.29 193.29L174.291 226.624C175.433 225.859 176.369 224.823 177.017 223.609C177.663 222.395 178 221.041 177.999 219.665V36.3343C177.981 34.9486 177.622 33.5889 176.953 32.3751C176.284 31.1613 175.327 30.1309 174.165 29.375L224.29 62.7093C225.429 63.4774 226.364 64.5131 227.011 65.7258C227.658 66.9385 227.997 68.2911 228 69.6655Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_217_156)">
-<path d="M64.6656 197.165L31.3344 172.166C30.2952 171.394 29.4519 170.387 28.8727 169.23C28.2935 168.072 27.9946 166.794 28.0001 165.5V90.4999C27.9946 89.2052 28.2935 87.9273 28.8727 86.7696C29.4519 85.6117 30.2952 84.6062 31.3344 83.8342L64.6656 58.8342C63.7702 59.675 63.0936 60.7216 62.6944 61.8832C62.2952 63.0449 62.1856 64.2863 62.375 65.4999V190.5C62.1856 191.714 62.2952 192.955 62.6944 194.117C63.0936 195.278 63.7702 196.324 64.6656 197.165Z" fill="#5E438F"/>
-<g filter="url(#filter0_dd_217_156)">
-<path d="M224.289 62.7093C222.917 61.8073 221.308 61.3291 219.665 61.3344C218.601 61.3258 217.544 61.5273 216.557 61.9274C215.571 62.3274 214.673 62.9181 213.915 63.6656L213.334 64.25L177.914 98.2093L146.834 128L110.04 163.291L75.9993 195.915L75.4151 196.5C74.6577 197.248 73.7598 197.84 72.7731 198.241C71.7862 198.641 70.73 198.843 69.665 198.834C67.8622 198.83 66.1087 198.246 64.665 197.165L31.3338 172.166C33.0272 173.437 35.1418 174.016 37.247 173.784C39.3522 173.552 41.2897 172.526 42.6651 170.915L61.3338 149.25L79.665 127.959L110.04 92.7093L163.249 30.9156C164.022 30.0005 164.985 29.2654 166.072 28.7617C167.158 28.2581 168.343 27.9981 169.539 28C171.183 27.9947 172.791 28.4729 174.165 29.375L224.289 62.7093Z" fill="url(#paint0_linear_217_156)"/>
-</g>
-<g filter="url(#filter1_dd_217_156)">
-<path d="M224.289 193.29L174.29 226.625C172.589 227.736 170.545 228.195 168.532 227.92C166.519 227.644 164.674 226.652 163.334 225.125L110.04 163.291L79.665 127.959L61.3338 106.709L42.6651 85.0407C41.2774 83.4464 39.338 82.436 37.2363 82.2122C35.1347 81.9884 33.026 82.5681 31.3338 83.8344L64.665 58.8345C66.1087 57.7546 67.8622 57.1693 69.665 57.1658C70.73 57.1568 71.7862 57.3584 72.7731 57.759C73.7598 58.1596 74.6577 58.7514 75.4151 59.5002L75.9993 60.0845L110.04 92.7094L146.834 128L177.958 157.835L213.334 191.75L213.915 192.335C214.673 193.082 215.571 193.672 216.557 194.072C217.544 194.472 218.601 194.674 219.665 194.665C221.308 194.671 222.917 194.192 224.289 193.29Z" fill="url(#paint1_linear_217_156)"/>
-</g>
-<g filter="url(#filter2_dd_217_156)">
-<path d="M228 69.6653V186.333C228.001 187.709 227.663 189.063 227.016 190.277C226.369 191.489 225.433 192.525 224.29 193.29L174.29 226.624C175.433 225.859 176.369 224.823 177.015 223.609C177.663 222.395 178 221.041 177.999 219.665V36.3341C177.981 34.9485 177.622 33.5886 176.953 32.3748C176.284 31.161 175.327 30.1307 174.165 29.3748L224.29 62.709C225.429 63.4771 226.363 64.5129 227.011 65.7256C227.657 66.9383 227.997 68.291 228 69.6653Z" fill="url(#paint2_linear_217_156)"/>
-</g>
-</g>
-<defs>
-<filter id="filter0_dd_217_156" x="26.1529" y="24.1143" width="203.317" height="181.196" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="0.246095"/>
-<feGaussianBlur stdDeviation="0.246095"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_217_156"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="1.29524"/>
-<feGaussianBlur stdDeviation="2.59048"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0"/>
-<feBlend mode="normal" in2="effect1_dropShadow_217_156" result="effect2_dropShadow_217_156"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_217_156" result="shape"/>
-</filter>
-<filter id="filter1_dd_217_156" x="26.1529" y="53.2798" width="203.317" height="181.194" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="0.246095"/>
-<feGaussianBlur stdDeviation="0.246095"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_217_156"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="1.29524"/>
-<feGaussianBlur stdDeviation="2.59048"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0"/>
-<feBlend mode="normal" in2="effect1_dropShadow_217_156" result="effect2_dropShadow_217_156"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_217_156" result="shape"/>
-</filter>
-<filter id="filter2_dd_217_156" x="158.622" y="13.8319" width="84.9208" height="228.335" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="0.129524"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_217_156"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="7.77143"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
-<feBlend mode="normal" in2="effect1_dropShadow_217_156" result="effect2_dropShadow_217_156"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_217_156" result="shape"/>
-</filter>
-<linearGradient id="paint0_linear_217_156" x1="190.499" y1="28" x2="41.9893" y2="177.471" gradientUnits="userSpaceOnUse">
-<stop stop-color="#7252AA"/>
-<stop offset="1" stop-color="#7252AA"/>
-</linearGradient>
-<linearGradient id="paint1_linear_217_156" x1="46.7501" y1="64.4571" x2="186.332" y2="220.705" gradientUnits="userSpaceOnUse">
-<stop stop-color="#AE7FE2"/>
-<stop offset="1" stop-color="#9A70D4"/>
-</linearGradient>
-<linearGradient id="paint2_linear_217_156" x1="200.49" y1="25.3528" x2="200.49" y2="226.456" gradientUnits="userSpaceOnUse">
-<stop stop-color="#D59DFF"/>
-<stop offset="1" stop-color="#C18EF1"/>
-</linearGradient>
-</defs>
-</svg>
+---
+[![](https://visitcount.itsvg.in/api?id=GieziAdael&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="url(#paint0_linear_158_100)" rx="60"/><g filter="url(#filter0_d_158_100)"><path fill="url(#paint1_linear_158_100)" d="M131.97 196.157C161.646 196.157 179.529 181.626 179.529 157.66C179.529 139.543 166.77 126.428 147.823 124.351V123.597C161.743 121.332 172.666 108.405 172.666 93.9689C172.666 73.3992 156.427 60 131.68 60H76V196.157H131.97ZM97.6533 77.2674H126.46C142.12 77.2674 151.013 84.2497 151.013 96.8935C151.013 110.387 140.67 117.935 121.917 117.935H97.6533V77.2674V77.2674ZM97.6533 178.89V134.071H126.266C146.76 134.071 157.393 141.619 157.393 156.339C157.393 171.058 147.05 178.89 127.523 178.89H97.6533V178.89Z"/><path stroke="#fff" stroke-width="2" d="M131.97 196.157C161.646 196.157 179.529 181.626 179.529 157.66C179.529 139.543 166.77 126.428 147.823 124.351V123.597C161.743 121.332 172.666 108.405 172.666 93.9689C172.666 73.3992 156.427 60 131.68 60H76V196.157H131.97ZM97.6533 77.2674H126.46C142.12 77.2674 151.013 84.2497 151.013 96.8935C151.013 110.387 140.67 117.935 121.917 117.935H97.6533V77.2674V77.2674ZM97.6533 178.89V134.071H126.266C146.76 134.071 157.393 141.619 157.393 156.339C157.393 171.058 147.05 178.89 127.523 178.89H97.6533V178.89Z"/></g><defs><filter id="filter0_d_158_100" width="137.529" height="170.157" x="59" y="47" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/><feOffset dy="4"/><feGaussianBlur stdDeviation="8"/><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/><feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_158_100"/><feBlend in="SourceGraphic" in2="effect1_dropShadow_158_100" mode="normal" result="shape"/></filter><linearGradient id="paint0_linear_158_100" x1="0" x2="256" y1="0" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#9013FE"/><stop offset="1" stop-color="#6B11F4"/></linearGradient><linearGradient id="paint1_linear_158_100" x1="85.793" x2="148.541" y1="68.962" y2="175.084" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#F1E5FC"/></linearGradient></defs></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#512BD4" rx="60"/><path fill="#fff" d="M24.0522 168.943C21.8155 168.943 19.9143 168.212 18.3486 166.749C16.7829 165.248 16 163.466 16 161.402C16 159.301 16.7829 157.5 18.3486 155.999C19.9143 154.499 21.8155 153.748 24.0522 153.748C26.3262 153.748 28.246 154.499 29.8118 155.999C31.4147 157.5 32.2162 159.301 32.2162 161.402C32.2162 163.466 31.4147 165.248 29.8118 166.749C28.246 168.212 26.3262 168.943 24.0522 168.943Z"/><path fill="#fff" d="M113.467 167.705H98.9285L60.625 108.387C59.6558 106.886 58.8539 105.328 58.2205 103.715H57.8848C58.1831 105.441 58.3322 109.137 58.3322 114.802V167.705H45.4707V87H60.96L97.9781 144.912C99.5439 147.314 100.55 148.964 100.998 149.865H101.221C100.849 147.726 100.662 144.106 100.662 139.002V87H113.467V167.705Z"/><path fill="#fff" d="M176.098 167.705H131.084V87H174.309V98.3688H144.393V121.218H171.961V132.53H144.393V156.393H176.098V167.705Z"/><path fill="#fff" d="M240.071 98.3688H217.033V167.705H203.724V98.3688H180.742V87H240.071V98.3688Z"/></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#953CAD" rx="60"/><path fill="#fff" d="M195.436 100.668V114.142H208.91V100.668H215.647V114.142H229.12V120.879H215.647V134.352H229.12V141.089H215.647V154.563H208.91V141.089H195.436V154.563H188.699V141.089H175.226V134.352H188.699V120.879H175.226V114.142H188.699V100.668H195.436ZM208.91 120.879H195.436V134.352H208.91V120.879Z"/><path fill="#fff" d="M122.001 33C157.144 33 187.828 52.0863 204.262 80.4561L204.102 80.183L162.753 103.991C154.607 90.1977 139.672 80.8892 122.54 80.6975L122.001 80.6945C95.875 80.6945 74.6945 101.874 74.6945 127.999C74.6945 136.543 76.9723 144.552 80.9335 151.469C89.0876 165.704 104.416 175.306 122.001 175.306C139.693 175.306 155.109 165.582 163.222 151.195L163.025 151.54L204.311 175.458C188.057 203.588 157.794 222.615 123.059 222.994L122.001 223C86.746 223 55.9753 203.796 39.582 175.276C31.5791 161.353 27 145.212 27 127.999C27 75.5334 69.5323 33 122.001 33Z"/></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><g clip-path="url(#clip0_7_147)"><path fill="#fff" fill-rule="evenodd" d="M203.801 178.21C194.011 177.938 186.416 178.941 180.051 181.619C178.218 182.355 175.277 182.355 175.035 184.662C176.015 185.63 176.133 187.214 176.992 188.556C178.459 190.991 181.033 194.271 183.357 195.973L191.191 201.571C195.965 204.488 201.351 206.193 206.002 209.113C208.696 210.817 211.388 213.007 214.082 214.834C215.454 215.807 216.285 217.392 218 217.997V217.629C217.144 216.538 216.897 214.957 216.044 213.735L212.367 210.209C208.82 205.465 204.41 201.325 199.636 197.922C195.718 195.245 187.152 191.596 185.56 187.097L185.319 186.824C188.008 186.552 191.191 185.605 193.764 184.875C197.929 183.784 201.721 184.024 206.002 182.93L211.882 181.226V180.135C209.678 177.946 208.087 175.025 205.763 172.959C199.521 167.606 192.661 162.373 185.56 157.994C181.766 155.562 176.868 153.977 172.829 151.913C171.356 151.182 168.911 150.817 168.055 149.601C165.846 146.929 164.625 143.397 163.034 140.232L152.997 119.064C150.794 114.319 149.444 109.574 146.755 105.195C134.144 84.5124 120.431 71.9828 99.375 59.6932C94.8477 57.1382 89.4616 56.0393 83.7353 54.7032L74.5546 54.2124C72.5928 53.3616 70.6364 51.0493 68.9216 49.9531C61.9441 45.5739 43.9475 36.0847 38.8029 48.5897C35.4966 56.4974 43.7006 64.2824 46.4855 68.299C48.5708 71.0966 51.2597 74.2597 52.7332 77.4228C53.5563 79.4897 53.8307 81.682 54.6895 83.8717C56.6458 89.2243 58.4842 95.1878 61.0551 100.178C62.427 102.733 63.8675 105.413 65.5824 107.723C66.5619 109.086 68.2768 109.67 68.6417 111.859C66.9268 114.294 66.8089 117.94 65.8293 120.986C61.42 134.734 63.1349 151.766 69.377 161.888C71.3389 164.928 75.9622 171.622 82.2345 169.065C87.744 166.875 86.5148 159.941 88.1062 153.857C88.4766 152.399 88.2297 151.425 88.9623 150.449V150.722L93.9834 160.819C97.7781 166.78 104.391 172.986 109.897 177.125C112.833 179.315 115.16 183.089 118.831 184.425V184.057H118.59C117.854 182.966 116.751 182.475 115.772 181.624C113.569 179.435 111.121 176.757 109.406 174.325C104.267 167.513 99.7399 159.968 95.6983 152.183C93.7365 148.412 92.0216 144.275 90.4357 140.504C89.6949 139.043 89.6949 136.85 88.4739 136.125C86.6355 138.797 83.9466 141.115 82.5939 144.398C80.2672 149.628 80.0257 156.077 79.1697 162.769C78.6758 162.891 78.8953 162.769 78.6758 163.041C74.7631 162.071 73.4132 158.051 71.9453 154.648C68.274 146.01 67.6594 132.141 70.8422 122.164C71.6983 119.609 75.375 111.579 73.9071 109.146C73.1662 106.834 70.7242 105.498 69.3743 103.671C67.7829 101.359 66.0735 98.4409 64.9705 95.8859C62.0346 89.0689 60.5667 81.5293 57.3812 74.7151C55.9077 71.552 53.3396 68.2662 51.257 65.3486C48.9303 62.0628 46.3648 59.7505 44.5265 55.8593C43.9146 54.4959 43.0585 52.3309 44.0381 50.8693C44.2795 49.8959 44.7734 49.5059 45.7475 49.2878C47.3389 47.9244 51.8716 49.6532 53.463 50.3785C57.9903 52.2054 61.7849 53.907 65.5796 56.4592C67.2945 57.6754 69.1329 59.9877 71.3361 60.5985H73.9098C77.8279 61.4493 82.2317 60.8712 85.9002 61.9619C92.3893 64.0343 98.2637 67.0719 103.532 70.3604C119.567 80.4577 132.792 94.8143 141.725 111.971C143.193 114.769 143.805 117.324 145.155 120.244C147.729 126.208 150.912 132.289 153.477 138.132C156.051 143.85 158.498 149.694 162.17 154.438C164.008 156.993 171.35 158.329 174.654 159.668C177.104 160.759 180.896 161.741 183.105 163.077C187.264 165.632 191.427 168.552 195.342 171.35C197.298 172.806 203.423 175.849 203.787 178.276L203.801 178.21ZM78.9584 72.4873C77.267 72.4724 75.5809 72.6769 73.9427 73.0954V73.3681H74.1842C75.1637 75.315 76.8786 76.6538 78.1023 78.3581L80.9202 84.1989L81.1616 83.9262C82.8765 82.71 83.7353 80.7631 83.7353 77.8454C83 76.9947 82.8793 76.1412 82.2674 75.2904C81.5321 74.0743 79.9407 73.4635 78.9584 72.4928V72.4873Z" clip-rule="evenodd"/></g><defs><clipPath id="clip0_7_147"><rect width="180" height="180" fill="#fff" transform="translate(38 38)"/></clipPath></defs></svg>
- 
-</div>
-------
-Credits:[GieziAdael](https://github.com/GieziAdael)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 Last Edited:01/09/25
