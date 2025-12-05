@@ -1,5 +1,28 @@
-# 💫 Sobre Mí:
-Soy un desarrollador en constante aprendizaje con un enfoque en Back-end utilizando .NET. Mi objetivo es crear soluciones sólidas, escalables y seguras que aporten valor real a las empresas y usuarios.<br><br>Actualmente estoy profundizando en:<br><br>- ASP.NET Core MVC para el desarrollo de aplicaciones web.<br>- APIs RESTful con .NET incluyendo autenticación y seguridad con JWT.<br>- Buenas prácticas de arquitectura y patrones de diseño aplicados al desarrollo backend.<br><br><br>Tengo bases sólidas en C# (POO, colecciones, LINQ, asincronía,  Servicios) y experiencia previa con otros lenguajes como Java, Python, PHP y C++, lo que me permite adaptarme rápidamente a diferentes entornos y tecnologías.<br>Mi meta es integrarme en un equipo de desarrollo profesional como Backend Developer .NET, contribuyendo a proyectos reales mientras sigo ampliando mis conocimientos y construyendo un portafolio sólido.<br>
+# 💫 Sobre Mí<br>
+Soy un desarrollador enfocado en **Backend con .NET**, apasionado por crear soluciones **seguras, escalables y bien estructuradas**. Mi principal fortaleza es el desarrollo de **APIs RESTful** utilizando ASP.NET Core, aplicando arquitecturas por capas y priorizando las buenas prácticas de código.<br><br>
+
+## 🚀 Tecnologías y Enfoque Actual<br>
+- **APIs REST con ASP.NET Core**<br>
+  - Arquitectura en capas (Controladores, Servicios, Repositorios)<br>
+  - Autenticación y autorización con **JWT**<br>
+  - Hashing de contraseñas con **BCrypt**<br>
+  - Enfoque en seguridad y buenas prácticas<br><br>
+
+- **ASP.NET Core MVC**<br>
+  - Consumo de APIs<br>
+  - Manejo de sesiones<br>
+  - Implementación de patrones y prácticas seguras<br><br>
+
+- **C#**<br>
+  - POO, colecciones, LINQ, asincronía<br>
+  - Servicios, inyección de dependencias<br><br>
+
+## 📚 Aprendizajes Actuales<br>
+- **WebSockets** para comunicación en tiempo real<br>
+- **Angular** (primeros pasos y fundamentos)<br><br>
+
+## 🎯 Objetivo Profesional<br>
+Integrarme a un equipo como **Backend Developer .NET**, contribuir a proyectos reales y seguir fortaleciendo mi portafolio mientras aprendo nuevas tecnologías y patrones de arquitectura.<br>
 
 
 ## 🌐 Socials:
