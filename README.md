@@ -6,12 +6,12 @@ Soy un desarrollador enfocado en **Backend con .NET**, apasionado por crear solu
   - Arquitectura en capas (Controladores, Servicios, Repositorios)<br>
   - Autenticación y autorización con **JWT**<br>
   - Hashing de contraseñas con **BCrypt**<br>
-  - Enfoque en seguridad y buenas prácticas<br><br>
+  - Enfoque en seguridad<br><br>
 
 - **ASP.NET Core MVC**<br>
   - Consumo de APIs<br>
   - Manejo de sesiones<br>
-  - Implementación de patrones y prácticas seguras<br><br>
+  - Implementación de patrones<br><br>
 
 - **C#**<br>
   - POO, colecciones, LINQ, asincronía<br>
